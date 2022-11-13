@@ -1,0 +1,14 @@
+body{
+    background-color: lightyellow;
+    text-align: center;
+}
+
+.macimage{
+    height: auto;
+    width: 400px;
+}
+
+ul, ol {
+    text-align: left;
+    display: inline-block;
+}

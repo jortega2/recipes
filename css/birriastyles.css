@@ -1,0 +1,14 @@
+body {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.bimg {
+    height: auto;
+    width: 400px;
+}
+
+ul, ol {
+    text-align: left;
+    display:inline-block;
+}

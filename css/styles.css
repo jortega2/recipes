@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+    color:black;
+}
+
+.container {
+    text-align: center;
+}
+
+ul.recipelist {
+    display:inline-block;
+    text-align: left;
+}
+
+h1 {
+    font-weight: bolder;
+}

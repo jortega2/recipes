@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+img.pokebowlimg{
+    height:auto;
+    width:300px;
+}
+
+ul, ol {
+    text-align: left;
+    display:inline-block;
+}
